@@ -26,7 +26,7 @@ const ConfirmEmailVerification = () => {
 	return (
 		<Container>
 			<Wrapper>
-				<Logo>Social Build</Logo>
+				<Logo>Socials Build</Logo>
 
 				<Text>Congratutation your account is now verified.</Text>
 
